@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - :orange_book: Focusing on Computer Vision
 - 🌱 I’m a phd student in [MCG group](http://mcg.nju.edu.cn/index.html), [Department of Computer Science, Nanjing University](https://cs.nju.edu.cn/)
 - 📫 How to reach me: jiamming-zhang@gmail.com
+- Trying to do better.
