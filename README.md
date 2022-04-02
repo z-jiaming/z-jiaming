@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=z-jiaming&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=z-jiaming&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
 ### Hi there 👋
 
-- :orange_book: Focusing on Computer Vision
+- :orange_book: Focusing on Computer Vision, Segmentation...
 - 🌱 I’m a student in [MCG group](http://mcg.nju.edu.cn/index.html), [Department of Computer Science, Nanjing University](https://cs.nju.edu.cn/)
 - 📫 How to reach me: jiamming-zhang@gmail.com
 - Trying to do better.
