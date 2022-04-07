@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 - :orange_book: Focusing on Computer Vision, Segmentation...
 - 🌱 I’m a student in [MCG group](http://mcg.nju.edu.cn/index.html), [Department of Computer Science, Nanjing University](https://cs.nju.edu.cn/)
-- 📫 How to reach me: jiamming-zhang@gmail.com
+- 📫 How to reach me: jiamming.zhang@gmail.com
 - Trying to do better.
